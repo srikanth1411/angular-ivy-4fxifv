@@ -1,3 +1,7 @@
 p {
   font-family: Lato;
 }
+button {
+  color: rgb(255, 255, 255);
+  background-color: green;
+}
